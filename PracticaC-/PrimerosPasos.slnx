@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="Dockerfile" />
+    <File Path="init.sql" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Ejercicios/Ejercicios.csproj" />
+  <Project Path="Mundial.API/Mundial.API.csproj" Id="d064826a-1e75-4af5-b176-7628bd5e6a9d" />
+  <Project Path="PrimerosPasos/PrimerosPasos.csproj" />
+</Solution>
