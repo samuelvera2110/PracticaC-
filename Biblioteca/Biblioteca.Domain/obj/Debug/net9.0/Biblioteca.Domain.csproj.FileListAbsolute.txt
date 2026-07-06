@@ -1,0 +1,12 @@
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\bin\Debug\net9.0\Biblioteca.Domain.deps.json
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\bin\Debug\net9.0\Biblioteca.Domain.dll
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\bin\Debug\net9.0\Biblioteca.Domain.pdb
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.sourcelink.json
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.dll
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\refint\Biblioteca.Domain.dll
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\Biblioteca.Domain.pdb
+C:\Users\JOSIAS\Desktop\Archivos\Practica Fullstack\Practica .NET\Biblioteca\Biblioteca.Domain\obj\Debug\net9.0\ref\Biblioteca.Domain.dll
